@@ -97,6 +97,11 @@ Technical Architects define the system design direction, technical standards, an
 - Technical standards documentation and decision records
 - Cross-team planning for dependencies and platform impacts
 
+### Interaction with Existing Roles
+- Work with Product Managers and Project Managers during initiation and planning to validate feasibility, trade-offs, and solution direction.
+- Partner with Developers and Engineering Managers to ensure technical decisions align with team capacity, delivery timelines, and implementation quality.
+- Coordinate with Security / Compliance Leads to incorporate controls, standards, and risk mitigations into the platform design.
+
 ---
 
 ## Engineering Managers
@@ -120,6 +125,11 @@ Engineering Managers align team delivery priorities, staffing, and operational e
 - Team planning and delivery check-ins
 - Capacity and dependency discussions with PMs and Product leaders
 - Operational updates during planning, execution, and release cycles
+
+### Interaction with Existing Roles
+- Translate Product Manager priorities and Project Manager commitments into staffing, sequencing, and delivery plans for Developers.
+- Collaborate with Technical Architects on platform impacts, dependency management, and technical decisions that influence team execution.
+- Help Product and Project leads balance roadmap trade-offs, quality expectations, and team capacity during planning and releases.
 
 ---
 
@@ -145,6 +155,11 @@ Security and Compliance Leads ensure products and delivery activities meet requi
 - Risk assessments and remediation planning
 - Escalation and incident coordination with leadership and stakeholders
 
+### Interaction with Existing Roles
+- Review proposed solutions with Product Managers and Project Managers to ensure requirements, timelines, and approvals address security and compliance needs.
+- Partner with Developers and Technical Architects during design reviews to validate controls, secure architecture patterns, and deployment standards.
+- Support Customer Success / Support and release stakeholders with incident readiness, escalation paths, and communication needs.
+
 ---
 
 ## Customer Success / Support Leads
@@ -168,6 +183,11 @@ Customer Success and Support Leads translate customer feedback, issues, and usag
 - Feedback reviews and customer issue triage
 - Product prioritization discussions with PM and engineering leads
 - Release readiness and support planning conversations
+
+### Interaction with Existing Roles
+- Bring customer issues and support signals to Product Managers and Project Managers to improve backlog prioritization and communication plans.
+- Coordinate with Developers and Engineering Managers on launch readiness, incident response, and post-release support needs.
+- Share release risks, user feedback, and adoption trends with Data / Analytics Leads and stakeholders to inform continuous improvement.
 
 ---
 
@@ -193,10 +213,16 @@ Data and Analytics Leads help teams measure product outcomes, validate decisions
 - Stakeholder updates on performance and adoption
 - Analysis of release impact and user behavior trends
 
+### Interaction with Existing Roles
+- Work with Product Managers and Project Managers to define success metrics, milestones, and evidence for decision-making.
+- Support Developers and Engineering Managers by validating performance, quality, and release readiness with dashboards and instrumentation.
+- Share analysis with Customer Success / Support and stakeholder groups to align operational reporting and continuous improvement actions.
+
 ---
 
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - These role definitions help teams clarify accountability, improve cross-functional collaboration, and support smoother handoffs across planning, execution, and release activities.
+
 
